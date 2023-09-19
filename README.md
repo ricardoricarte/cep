@@ -23,9 +23,5 @@
    + DTO;
    + Rodar Aplicação comando mvn spring-boot:run
    
-
-![modelo-conceitual](https://user-images.githubusercontent.com/56279938/210287216-0695f6f1-aab1-4978-be85-9f8797422d4b.png)
-
-
   </div>
 </div>

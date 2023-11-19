@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://repository-images.githubusercontent.com/236539303/3e436a05-4ee3-4d4b-9c11-fa4d1ca1c42f" width="80%">
+  <img src="![APiCEp](https://github.com/ricardoricarte/cep/assets/56279938/ec7c3f1e-1e79-4f32-8db9-14baa649129b)
+" width="80%">
   <h1 style="border-bottom:none">API de Cep</h1>
   <p>Author: José Ricardo</p>
   
